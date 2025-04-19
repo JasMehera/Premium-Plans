@@ -59,49 +59,49 @@ export default function ChannelsSection() {
       title: "Movies Channel",
       description: "Access to the latest movies, exclusive releases, and high-quality downloads.",
       icon: <Film className="h-6 w-6" />,
-      subscriberCount: "15k+",
+      subscriberCount: "Na",
       category: "Movies",
-      link: "https://t.me/movieflixspot"
+      link: "https://t.me/Movies_Union"
     },
     {
       title: "Series Flix",
       description: "Premium TV shows and series from around the world with subtitles and no ads.",
       icon: <Video className="h-6 w-6" />,
-      subscriberCount: "40K+",
+      subscriberCount: "Na",
       category: "TV Shows",
-      link: "https://t.me/seriesflix_verse"
+      link: "https://t.me/Series_Union"
     },
     {
       title: "Doujinshi Flix",
       description: "Exclusive Adult Manga content, early releases, and special collections for H-Manga fans.",
       icon: <BookOpen className="h-6 w-6" />,
-      subscriberCount: "5K+",
+      subscriberCount: "Na",
       category: "Doujinshi",
-      link: "https://t.me/hanime_arena"
+      link: "https://t.me/Adult_Union"
     },
     {
       title: "Music Channel",
       description: "Premium music tracks, albums, and playlists across all genres and moods.",
       icon: <Music className="h-6 w-6" />,
-      subscriberCount: "1K+",
+      subscriberCount: "Na",
       category: "Music",
-      link: "https://t.me/otakuflix_network"
+      link: "https://t.me/Union_Association"
     },
     {
       title: "Adult Flix",
       description: "Exclusive Adult content, Daily Uploads, and special collections for Corn lovers.",
       icon: <Globe className="h-6 w-6" />,
-      subscriberCount: "10K+",
+      subscriberCount: "Na",
       category: "Adult",
-      link: "https://t.me/hanime_arena"
+      link: "https://t.me/Adult_Union"
     },
     {
       title: "Otaku Community",
       description: "Exclusive group for creative professionals with resources and networking.",
       icon: <MessageCircle className="h-6 w-6" />,
-      subscriberCount: "100K+",
+      subscriberCount: "Na",
       category: "Community",
-      link: "https://t.me/otakuflix_network"
+      link: "https://t.me/Union_Association"
     },
   ];
 
